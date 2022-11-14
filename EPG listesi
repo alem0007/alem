@@ -1,51 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="sporekrani.com">
-  <channels>
-    <channel update="i" site="sporekrani.com" site_id="Tivibu-Spor-4" xmltv_id="Tivibu Spor 4">Tivibu Spor 4</channel>
-    <channel update="i" site="sporekrani.com" site_id="Tivibu-Spor" xmltv_id="Tivibu Spor">Tivibu Spor</channel>
-    <channel update="i" site="sporekrani.com" site_id="NBA-TV" xmltv_id="NBA TV">NBA TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="NBA-TV-HD" xmltv_id="NBA TV HD">NBA TV HD</channel>
-    <channel update="i" site="sporekrani.com" site_id="FOX-Sports-HD" xmltv_id="FOX Sports HD">FOX Sports HD</channel>
-    <channel update="i" site="sporekrani.com" site_id="Bein-Sports-3" xmltv_id="Bein Sports 3">Bein Sports 3</channel>
-    <channel update="i" site="sporekrani.com" site_id="Smart-Spor-2" xmltv_id="Smart Spor 2">Smart Spor 2</channel>
-    <channel update="i" site="sporekrani.com" site_id="Turkcell-TV-Plus" xmltv_id="Turkcell TV Plus">Turkcell TV Plus</channel>
-    <channel update="i" site="sporekrani.com" site_id="Smart-Spor-2-HD" xmltv_id="Smart Spor 2 HD">Smart Spor 2 HD</channel>
-    <channel update="i" site="sporekrani.com" site_id="TRT-Spor" xmltv_id="TRT Spor">TRT Spor</channel>
-    <channel update="i" site="sporekrani.com" site_id="TRT-Spor-HD" xmltv_id="TRT Spor HD">TRT Spor HD</channel>
-    <channel update="i" site="sporekrani.com" site_id="Eurosport" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="sporekrani.com" site_id="Eurosport-HD" xmltv_id="Eurosport HD">Eurosport HD</channel>
-    <channel update="i" site="sporekrani.com" site_id="Bursaspor-TV" xmltv_id="Bursaspor TV">Bursaspor TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="NTV-Spor" xmltv_id="NTV Spor">NTV Spor</channel>
-    <channel update="i" site="sporekrani.com" site_id="NTV-Spor-HD" xmltv_id="NTV Spor HD">NTV Spor HD</channel>
-    <channel update="i" site="sporekrani.com" site_id="Eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="sporekrani.com" site_id="Eurosport-2-HD" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-    <channel update="i" site="sporekrani.com" site_id="Tivibu-Spor-2" xmltv_id="Tivibu Spor 2">Tivibu Spor 2</channel>
-    <channel update="i" site="sporekrani.com" site_id="Bein-Sports-2" xmltv_id="Bein Sports 2">Bein Sports 2</channel>
-    <channel update="i" site="sporekrani.com" site_id="TBF-TV" xmltv_id="TBF TV">TBF TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="Bein-Sports-4" xmltv_id="Bein Sports 4">Bein Sports 4</channel>
-    <channel update="i" site="sporekrani.com" site_id="Bein-Sports" xmltv_id="Bein Sports">Bein Sports</channel>
-    <channel update="i" site="sporekrani.com" site_id="Tivibu-Spor-3" xmltv_id="Tivibu Spor 3">Tivibu Spor 3</channel>
-    <channel update="i" site="sporekrani.com" site_id="Bein-Sports-Kanal-91" xmltv_id="Bein Sports Kanal 91">Bein Sports Kanal 91</channel>
-    <channel update="i" site="sporekrani.com" site_id="Fight-Network-Turkey" xmltv_id="Fight Network Turkey">Fight Network Turkey</channel>
-    <channel update="i" site="sporekrani.com" site_id="FB-TV" xmltv_id="FB TV">FB TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="GS-TV" xmltv_id="GS TV">GS TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="Alta%C5%9F-TV-Ordu" xmltv_id="AltaÅ TV Ordu">AltaÅ TV Ordu</channel>
-    <channel update="i" site="sporekrani.com" site_id="Twitch-TV" xmltv_id="Twitch TV">Twitch TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="TRT-Avaz" xmltv_id="TRT Avaz">TRT Avaz</channel>
-    <channel update="i" site="sporekrani.com" site_id="Hentbol-Web-TV" xmltv_id="Hentbol Web TV">Hentbol Web TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="Smart-Spor" xmltv_id="Smart Spor">Smart Spor</channel>
-    <channel update="i" site="sporekrani.com" site_id="Smart-Spor-HD" xmltv_id="Smart Spor HD">Smart Spor HD</channel>
-    <channel update="i" site="sporekrani.com" site_id="Bein-Sports-Kanal-92" xmltv_id="Bein Sports Kanal 92">Bein Sports Kanal 92</channel>
-    <channel update="i" site="sporekrani.com" site_id="TV-8.5" xmltv_id="TV 8.5">TV 8.5</channel>
-    <channel update="i" site="sporekrani.com" site_id="Beyaz-TV" xmltv_id="Beyaz TV">Beyaz TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="Kanal-58-Sivas" xmltv_id="Kanal 58 Sivas">Kanal 58 Sivas</channel>
-    <channel update="i" site="sporekrani.com" site_id="%C3%87ay-TV-Rize" xmltv_id="Ãay TV Rize">Ãay TV Rize</channel>
-    <channel update="i" site="sporekrani.com" site_id="Kanal-16-Bursa" xmltv_id="Kanal 16 Bursa">Kanal 16 Bursa</channel>
-    <channel update="i" site="sporekrani.com" site_id="Kanal-3-Afyon" xmltv_id="Kanal 3 Afyon">Kanal 3 Afyon</channel>
-    <channel update="i" site="sporekrani.com" site_id="Ege-T%C3%BCrk-TV" xmltv_id="Ege TÃ¼rk TV">Ege TÃ¼rk TV</channel>
-    <channel update="i" site="sporekrani.com" site_id="TVNET" xmltv_id="TVNET">TVNET</channel>
-    <channel update="i" site="sporekrani.com" site_id="Geli%C5%9Fim-Koleji-Youtube" xmltv_id="GeliÅim Koleji Youtube">GeliÅim Koleji Youtube</channel>
-    <channel update="i" site="sporekrani.com" site_id="A-Spor" xmltv_id="A Spor">A Spor</channel>
-    <channel update="i" site="sporekrani.com" site_id="A-Spor-HD" xmltv_id="A Spor HD">A Spor HD</channel>
-  </channels>
-</site>
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20221112">
+<channel id="24KitchenTurkey.tr"><display-name>24Kitchen Turkey</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="24TV.tr"><display-name>24 TV</display-name><icon src="https://i.imgur.com/8FO41es.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="360.tr"><display-name>360</display-name><icon src="https://i.imgur.com/eXKohZ5.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="A2TV.tr"><display-name>A2TV</display-name><icon src="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="AHaber.tr"><display-name>A Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ANews.tr"><display-name>A News</display-name><icon src="https://i.imgur.com/Dk9x78N.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="APara.tr"><display-name>A Para</display-name><icon src="https://i.imgur.com/3VeDGWo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="ASpor.tr"><display-name>A Spor</display-name><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160121/001300/001300000000003512295/62f42a8d-b0c4-4367-b283-4e3a39e8da0a.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ATV.tr"><display-name>ATV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/512px-Atv_logo_2010.svg.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ATVAvrupa.tr"><display-name>ATV Avrupa</display-name><icon src="https://i.imgur.com/cnVMvLC.png"/><url>https://tv.blue.ch</url></channel>
+<channel id="AkilliTV.tr"><display-name>Akilli TV</display-name><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478998/8a5fe430-9a6e-4835-92fb-245947ce17fc.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="AkitTV.tr"><display-name>Akit TV</display-name><icon src="https://i.ibb.co/zG7NM55/Jagn7PG.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="AlHayatTV.us"><display-name>Al Hayat TV</display-name><icon src="https://www.alhayat.tv/images/logo/main.34f5c635.png"/><url>https://elcinema.com</url></channel>
+<channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ArirangWorld.kr"><display-name>Arirang World</display-name><icon src="https://i.imgur.com/5Aoithj.png"/><url>https://directv.com</url></channel>
+<channel id="BBCEarthTurkey.tr"><display-name>BBC Earth Turkey</display-name><icon src="https://i.imgur.com/xXM60fa.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="BBCEntertainment.uk"><display-name>BBC Entertainment</display-name><icon src="https://i.imgur.com/fx2z8M1.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="BBCFirstTurkey.tr"><display-name>BBC First Turkey</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/BBC_First_Foxtel_logo.svg/512px-BBC_First_Foxtel_logo.svg.png"/><url>https://digiturk.com.tr</url></channe
